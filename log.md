@@ -50,3 +50,8 @@
 - Created concepts: [[agent-stack-six-layers]], [[agent-orchestration]], [[agent-reliability-math]]
 - Created entities: [[e2b]], [[daytona]], [[modal]], [[browserbase]], [[mem0]], [[composio]], [[agentmail]], [[stripe-projects]]
 - Updated: index.md, log.md
+
+## [2026-04-14] ingest | One-Person Business 2026 — Nate's Updated Framework (Apr 14)
+- Ingested source: raw/transcripts/nate-one-person-business-2026-04-14.md
+- Updated concept: [[one-person-business]] — substantially expanded with Nate's April 14 video: AI content coach workflow, Eden canvas system, customer avatar→offer→landing page pipeline, platform monetization math, freelancing as starting path
+- Updated: index.md, log.md
