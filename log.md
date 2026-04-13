@@ -55,3 +55,25 @@
 - Ingested source: raw/transcripts/nate-one-person-business-2026-04-14.md
 - Updated concept: [[one-person-business]] — substantially expanded with Nate's April 14 video: AI content coach workflow, Eden canvas system, customer avatar→offer→landing page pipeline, platform monetization math, freelancing as starting path
 - Updated: index.md, log.md
+
+## [2026-04-14] ingest | HUMAN 3.0 — Complete Framework (User's Synthesis)
+- Ingested source: raw/articles/human-3-framework-complete-2026-04-14.md (user's own synthesis)
+- Created concept: [[human-3-0]] — main framework page (Four Quadrants, Three Levels, Phase System, Core Principles)
+- Created concept: [[metacrisis]] — civilizational context; two attractors vs third option
+- Created concept: [[generator-functions]] — rivalrous dynamics, substrate consumption, exponential technology
+- Created concept: [[flow-science]] — Csikszentmihalyi's optimal experience research; complexity formula; neurochemistry
+- Created concept: [[developmental-psychology]] — convergent validation (Spiral Dynamics, Cook-Greuter, Maslow, Wilber)
+- Created concept: [[channel-mechanics]] — periods of intense obsessive development; activation, characteristics, exit patterns
+- Created concept: [[glitches]] — high-risk accelerants; AI as meta-glitch across all quadrants
+- Created concept: [[cross-quadrant-dynamics]] — virtuous spirals, negative traps (poverty, success, spiritual bypass, optimization)
+- Created concept: [[false-transformation]] — performative development without consciousness shift; pre-trans fallacy
+- Created concept: [[regression-mechanics]] — return to earlier patterns under stress; recovery protocol
+- Created concept: [[metatypes]] — quadrant combination types: Executive, Warrior Monk, Professor, Entrepreneur, etc.
+- Created concept: [[lifestyle-archetypes]] — imbalanced patterns: Workaholic, Seeker, Optimizer, Athlete, Drifter, Specialist
+- Created concept: [[anti-vision-principle]] — knowing what you don't want as entry point; morning writing practice
+- Created entity: [[daniel-schmachtenberger]] — metacrisis, generator functions, third attractor
+- Created entity: [[mihaly-csikszentmihalyi]] — flow science founder; complexity formula; autotelic personality
+- Created entity: [[steven-kotler]] — Flow Research Collective; trigger catalog; macro-flow
+- Created entity: [[abraham-maslow]] — hierarchy of needs; self-actualization research
+- Updated concept: [[one-person-business]] — connected to Human 3.0 quadrants; anti-rivalrous nature of self-monetization
+- Updated: index.md, log.md

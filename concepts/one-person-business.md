@@ -3,7 +3,7 @@ title: One-Person Business
 created: 2026-04-14
 updated: 2026-04-14
 type: concept
-tags: [future-of-work, ai, entrepreneurship, productivity, creator-economy]
+tags: [future-of-work, ai, entrepreneurship, productivity, creator-economy, human-development]
 sources: [raw/articles/dankoe-one-person-business-2026-03-11.md, raw/transcripts/nate-one-person-business-2026-04-14.md]
 ---
 
@@ -137,10 +137,26 @@ These are nice add-ons. But if you create your own product/service, you make 10-
 
 > "AI is a catalyst to avoid a lot of trial and error — but you still have to iterate when something doesn't work."
 
+## Human 3.0 Context
+
+One-person business is primarily a **Vocation quadrant** practice, but the most successful practitioners develop all four quadrants:
+
+- **Mind:** AI fluency, content taste, judgment about what to delegate to AI
+- **Body:** Energy management — the stamina to sustain creative work
+- **Spirit:** Meaning-making, community building, authentic voice
+- **Vocation:** The business itself — revenue, systems, customer relationships
+
+The "barrier lower, skill cap higher" dynamic is a Level 2.0 → Level 3.0 shift in the [[human-3-0|Vocation quadrant]]: everyone can start, few can execute at a high level because it requires integrated development across all quadrants.
+
+The [[metacrisis|anti-rivalrous]] nature of self-monetization (you succeed by helping others solve problems you've already solved) makes one-person business a micro-practice of the [[generator-functions|third attractor]] at the individual level.
+
 ## Related
 
+- [[human-3-0]]
 - [[ai-assisted-vs-automated]]
 - [[meaning-economy]]
 - [[dan-koe]]
 - [[judgment-paradox]]
 - [[upstream-migration]]
+- [[metacrisis]]
+- [[generator-functions]]
