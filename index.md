@@ -40,7 +40,7 @@
 - [[abraham-maslow]] — hierarchy of needs; self-actualization research; "good enough" baseline principle; deficiency vs being needs
 - [[ai-assisted-vs-automated]] — AI-assisted (human judgment + AI support) vs AI-automated; trust built on judgment not volume
 - [[ai-consulting-build-buy]] — 4:1 ratio: 4 engineering problems your team can solve, 1 domain expertise worth paying consultants
-- [[ai-memory-compression-frontier]] — Five approaches to KV cache compression; TurboQuant stacks and compounds
+- [[compression-frontier]] — Five approaches to KV cache compression; TurboQuant stacks and compounds
 - [[anti-vision-principle]] — anti-vision (life you don't want) often clearer than positive vision; morning writing practice; starting point for development
 - [[autoresearch]] — Community extensions of the Karpathy Loop; agents improving themselves across code, harnesses, game-playing, and business processes
 - [[autoresearch-atari]] — Atari Breakout application of the Karpathy Loop; domain-agnostic proof; stochastic rewards, no text involved; rate limit handling via litellm
@@ -81,9 +81,10 @@
 - [[mcp-model-context-protocol]] — Anthropic's open standard; Conway layers proprietary .cnw.zip on top
 - [[neuroscience-memory]] — Forgetting is retrieval deficit not storage deficit; brain stores memory keys; PolarQuant analogy
 - [[one-person-business]] — The $1M math; 3 pillars (brand/content/offer); content waterfall; AI as amplifier not replacer; Vocation quadrant primary with full quadrant integration
-- [[openclaw-ban]] — Anthropic blocked third-party Claude tools; the template for closing the ecosystem
+- [[openclaw]] — Anthropic blocked third-party Claude tools; the template for closing the ecosystem
 - [[program-md]] — The human's research direction document in a Karpathy Loop; plain-English instructions telling the agent what to explore, avoid, and what counts as progress
 - [[polymarket-bot]] — $313 → $438K in one month; proof of concept for speed gap exploitation; 92.4% lost money
+- [[polarquant]] — First stage of [[turboquant]]; coordinate rotation into polar space eliminates per-block normalization constants; neuroscience analogy to brain memory encoding
 - [[autoresearch-trading]] — Applying the Karpathy Loop to algorithmic trading: strategy.py + vectorbt backtesting harness, Supertrend optimization, ClawdMarket live agents
 - [[regression-mechanics]] — Return to earlier developmental patterns under stress; acute/chronic/cascade types; recovery protocol; antifragile through challenge
 - [[reorg-three-functions]] — Management bundles routing/sensemaking/accountability; removing all three = Valve/Zappos/GitHub pattern failure
