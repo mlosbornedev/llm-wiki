@@ -77,3 +77,35 @@
 - Created entity: [[abraham-maslow]] — hierarchy of needs; self-actualization research
 - Updated concept: [[one-person-business]] — connected to Human 3.0 quadrants; anti-rivalrous nature of self-monetization
 - Updated: index.md, log.md
+## [2026-04-18] ingest | Nate's Substack: The 00 Overnight Loop
+- Created: [[karpathy-loop]], [[local-hard-takeoff]], [[autoagent]]
+- Updated: [[index.md]]
+## [2026-04-19] ingest | last30days research: karpathy loop
+- Updated: [[karpathy-loop]], [[autoagent]] (enriched with community data)
+- Created: [[march-of-nines]], [[autoresearch]]
+- Updated: [[index.md]]
+- Sources: ~/Documents/Last30Days/karpathy-loop-raw-v3.md
+- Key findings: March of Nines reliability math, Trace Bottleneck, Model Empathy, emergent harness behaviors
+## [2026-04-19] ingest | Gap-filling research: eval harness, program.md, AutoKernel, Autoresearch Trading, ClawdMarket
+- Created: [[eval-harness]], [[program-md]], [[autokernel]], [[autoresearch-trading]], [[clawdmarket]]
+- Updated: [[karpathy-loop]] (three-file architecture table, not fully autonomous reality check, git keep/revert mechanism)
+- Updated: [[index.md]] (76 pages, added 6 new entries, fixed duplicate local-hard-takeoff, restored displaced e2b entry)
+- Sources: ~/Documents/Last30Days/autokernel-gpu-kernel-optimization-raw-v3.md, ~/Documents/Last30Days/program-md-eval-harness-autoresearch-raw-v3.md, ~/Documents/Last30Days/autoresearch-stock-trading-backtesting-raw-v3.md
+- Key gaps filled: three-file architecture (program.md/agent.py/prepare.py), eval harness locking requirement, Karpathy's not-fully-autonomous admission, AutoKernel 5.29x result + Amdahl's Law, trading loop specifics (strategy.py + vectorbt), ClawdMarket live production loop
+## [2026-04-19] ingest | Gap-fill round 2: Atari Breakout + OpenCLI 8-phase engine
+- Created: [[autoresearch-atari]] (domain-agnostic proof: stochastic pixel-pattern rewards, 3-file Atari structure, rate limit handling, litellm proxy)
+- Updated: [[autoresearch]] (added OpenCLI 8-phase engine with full architecture table, 194/194 test suite breakdown by layer, key SPA findings, efficiency metrics; updated all 6 community extensions with real details)
+- Updated: [[index.md]] (77 pages, added autoresearch-atari)
+- Sources: ~/Documents/Last30Days/autoresearch-atari-breakout-game-optimization-raw-v4.md, GitHub PRs shehabyasser-scale/autoresearch-hack#1, jackwener/OpenCLI#731, jackwener/OpenCLI#717
+- Key findings: Atari proves domain-agnosticism (no text, stochastic rewards); OpenCLI adds guard+verify phases to the loop and achieves 100% pass on 194 real browser tasks
+
+## [2026-04-19] ingest | Hermes Autoresearch skill research
+- Created [[hermes-autoresearch]] entity page (5,615 bytes)
+  - NousResearch implementation (Tugrul Guner, PRs #5112, #5175)
+  - 5 flows: ML optimization, knowledge research, security audit, competitive intelligence, PRD refinement
+  - 7 helper scripts, stdlib Python only, zero external dependencies
+  - 44 integration tests + 32 e2e assertions, all passing
+  - 40% faster research with self-created skills (Nous Research benchmark)
+  - Community forks: novix-science, ARIS, SEO variant
+- Updated [[index.md]]: +1 page (77 -> 78)
+- Sources: GitHub PRs #5175, #5112, issue #4824 (NousResearch/hermes-agent)
