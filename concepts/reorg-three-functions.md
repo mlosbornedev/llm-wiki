@@ -62,5 +62,6 @@ Reversing any two steps produces a specific, predictable disaster.
 > "Your company removed a management layer. It was actually three layers in a trench coat, and only one of them was ready to go."
 
 ## Related
-- [[judgment-paradox]] — why accountability may never be automatable
+- [[judgment-paradox]] — why accountability may never be fully automatable
 - [[agent-orchestration]] — routing is automatable; orchestration is the gap
+- [[ai-consulting-build-buy]] — organizations without routing/sensemaking/accountability face different agent deployment problems than those with intact management

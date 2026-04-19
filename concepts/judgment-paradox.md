@@ -50,3 +50,4 @@ The question the article raises but can't answer: **who's building the pipeline 
 - [[upstream-migration]] — where value migrates; the paradox's context
 - [[arbitrage-gaps-taxonomy]] — the five gaps that AI compresses, including the knowledge asymmetry gap
 - [[polymarket-bot]] — proof that execution consistency (discipline) also matters, not just knowledge
+- [[reorg-three-functions]] — management bundles routing/sensemaking/accountability; removing all three produces predictable failure

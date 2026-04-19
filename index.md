@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-19 | Total pages: 78
+> Last updated: 2026-04-19 | Total pages: 76
 
 ## Entities
 <!-- Alphabetical within section -->
@@ -40,7 +40,6 @@
 - [[abraham-maslow]] — hierarchy of needs; self-actualization research; "good enough" baseline principle; deficiency vs being needs
 - [[ai-assisted-vs-automated]] — AI-assisted (human judgment + AI support) vs AI-automated; trust built on judgment not volume
 - [[ai-consulting-build-buy]] — 4:1 ratio: 4 engineering problems your team can solve, 1 domain expertise worth paying consultants
-- [[compression-frontier]] — Five approaches to KV cache compression; TurboQuant stacks and compounds
 - [[anti-vision-principle]] — anti-vision (life you don't want) often clearer than positive vision; morning writing practice; starting point for development
 - [[autoresearch]] — Community extensions of the Karpathy Loop; agents improving themselves across code, harnesses, game-playing, and business processes
 - [[autoresearch-atari]] — Atari Breakout application of the Karpathy Loop; domain-agnostic proof; stochastic rewards, no text involved; rate limit handling via litellm

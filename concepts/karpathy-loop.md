@@ -45,7 +45,8 @@ The pattern has evolved from optimizing ML training code (Karpathy) to optimizin
 ## Ecosystem & Community
 The pattern has spawned a broader "Autoresearch" movement:
 - **Karpathy's Original Script:** 630 lines, 42K+ GitHub stars. Ran 700 experiments in 2 days, found a bug in his own attention implementation, and cut training time by 11%.
-- **Community Ports:** Hermes agent skill (by @Tugrul_Guner/NousResearch), Claude Code plugin (r/ClaudeAI), Mirofish (by Guo Hangjiang).
+- **Community Ports:** Hermes agent skill (by @Tugrul_Guner/NousResearch), Claude Code plugin (r/ClaudeAI), Mirofish (by Guo Hangjiang), [[autokernel]] (RightNow AI's GPU kernel optimizer), [[clawdmarket]] (first live agent marketplace)
+- **Community Variations:** [[hermes-autoresearch]] (Hermes native implementation), [[autoresearch-atari]] (Atari game-playing proof), [[autoresearch-trading]] (algorithmic trading variant)
 - **Cost:** High-scale runs via SkyPilot ran 910 experiments on a 16-GPU cluster for under $300 total (~$260 GPU + ~$9 Claude API).
 - **Shopify CEO Tobi Lütke:** Ran the pattern on Shopify's templating engine, achieving 53% faster rendering from 93 experiments in 8 hours.
 

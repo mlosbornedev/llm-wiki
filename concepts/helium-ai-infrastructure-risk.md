@@ -41,4 +41,4 @@ Every dollar of the $1.15T hyperscaler spending assumes chips arrive on schedule
 
 ## Related
 - [[three-body-ai-memory]] — memory shortage compounding
-- ai-memory-compression-frontier — the response to infrastructure constraints
+- [[compression-frontier]] — the response to infrastructure constraints

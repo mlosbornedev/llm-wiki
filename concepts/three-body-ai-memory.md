@@ -43,6 +43,7 @@ The three forces interact **multiplicatively**, not additively:
 - 6x compression gain × 350x next-gen throughput × continued demand growth
 - Small perturbations in the fastest-moving body produce outsized effects on the system
 - Compression is disproportionately underweighted by everyone focused on chip supply or agent demand
+- Helium supply risk ([[helium-ai-infrastructure-risk]]) adds a fourth-order risk factor no one models
 
 ## Who Wins
 

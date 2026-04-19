@@ -109,3 +109,15 @@
   - Community forks: novix-science, ARIS, SEO variant
 - Updated [[index.md]]: +1 page (77 -> 78)
 - Sources: GitHub PRs #5175, #5112, issue #4824 (NousResearch/hermes-agent)
+
+## [2026-04-19] lint | Weekly wiki quality check
+- Lint ran 5 checks across 83 pages
+- Check 1 (Orphans): 10 orphan pages (zero inbound wikilinks)
+- Check 2 (Broken wikilinks): 0 — clean
+- Check 3 (Stale >90 days): 0 — clean
+- Check 4 (Missing index): 3 issues found (polarquant missing; ai-memory-compression-frontier and openclaw-ban were stale index entries with no matching files)
+- Check 5 (Tag violations): 74 violations — all pages use free-form tags not in SCHEMA.md taxonomy
+- Fixed: [[index.md]] — added polarquant, corrected 2 stale entries (ai-memory-compression-frontier → compression-frontier; openclaw-ban → openclaw)
+- Committed: f972f58
+- Not fixed: Tag taxonomy — pervasive issue (74/83 pages); recommend expanding SCHEMA.md taxonomy or adopting a more permissive schema
+- Not fixed: Orphan pages — 10 pages have zero inbound links; requires careful linking to avoid artificial/inaccurate connections

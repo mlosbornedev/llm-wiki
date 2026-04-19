@@ -33,6 +33,8 @@ The 4:1 ratio framework for agent deployment problems — separating engineering
 ## Why The Ratio Stays Hidden
 Neither side selling (consulting firms or open-source advocates) has incentive to reveal the 4:1 ratio because it changes the build-or-buy calculus entirely.
 
+The management bundle problem ([[reorg-three-functions]]) intersects with this: organizations that removed all three management functions simultaneously face a different class of agent deployment problems than those with intact management structures.
+
 ## The Four Prompts
 A prompt kit to run before signing any consulting contract — identifies what your team handles vs. pays for.
 

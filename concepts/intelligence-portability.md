@@ -52,4 +52,4 @@ The article calls on Anthropic to ship policies around behavioral context portab
 - [[behavioral-lock-in]] — the mechanism that creates this lock-in
 - [[conway]] — the always-on agent that creates behavioral lock-in
 - [[anthropic-platform-strategy]] — why Anthropic is building toward this
-- [[intelligence-portability]] — this concept (self-referential link for completeness)
+- [[skills-architecture]] — Skills as the mechanism for portability vs lock-in; what should have existed from the start

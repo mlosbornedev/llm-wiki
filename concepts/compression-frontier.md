@@ -76,3 +76,4 @@ New results land weekly. The third force is the fastest-moving variable in a sys
 - [[three-body-ai-memory]] — the economic framework
 - [[percepta]] — orthogonal approach: make the transformer compute, not just store more efficiently
 - [[vllm]] — production-ready implementation vehicle for these techniques
+- [[helium-ai-infrastructure-risk]] — helium supply risk affects fab output; compounding memory constraints with fab constraints

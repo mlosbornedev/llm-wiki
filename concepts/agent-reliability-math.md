@@ -47,3 +47,4 @@ The compounding math cuts both ways: a 97% reliable shim looks fine in isolation
 ## Related Concepts
 - [[agent-stack-six-layers]] — the six layers this math applies to
 - [[agent-orchestration]] — the gap that widens when reliability math isn't addressed
+- [[ai-consulting-build-buy]] — why some agent problems are engineering problems (solvable) vs domain expertise problems (require consultants)

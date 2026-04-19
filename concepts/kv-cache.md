@@ -51,3 +51,5 @@ For a 70B-parameter model serving 32K-context sessions:
 - Revenue per GPU: ~5x increase
 
 See [[percepta]] for why this matters beyond cost — it's what enables qualitatively new computation when the "RAM" of the transformer expands without new hardware.
+
+Token efficiency ([[token-management]]) is the user-side complement: [[turboquant]] compresses memory at the hardware level, while token management compresses memory at the protocol level — both multiply effective GPU capacity from different angles.

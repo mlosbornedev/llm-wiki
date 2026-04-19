@@ -44,3 +44,5 @@ A diagnostic question that cuts through ambiguity — works for ICs and CTOs ali
 ## Related
 - [[agent-evaluation-framework]] — evaluating which agent type for which use case
 - [[agent-reliability-math]] — why reliability compounds across layers
+- [[dispatch-computer-use]] — real delegation vs simulated work; the type IV use case
+- [[ai-consulting-build-buy]] — the 4:1 ratio; engineering vs domain expertise problems
