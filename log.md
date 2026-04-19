@@ -59,6 +59,18 @@
 - Created template: [[sr-scaffold-workflow]]
 - Existing AI/Research pages preserved (76 pages from 2026-04-12 through 2026-04-14)
 - Total wiki pages: 89
+
+## [2026-04-19] ingest | R82 Documentation — SecureXL Debug, cpinfo Runbook, fwaccel Module Guides
+- Ingested from: ~/Work/checkpoint-fwaccel-kernel-debug-reference-2026-04-01.txt (SK171943, R82)
+- Ingested from: ~/Work/cpinfo-troubleshooting-runbook.md (Michael's triage methodology)
+- Ingested from: ~/Work/fwaccel-dbg-guides/README.md + 19 module guide files
+- Raw sources saved: raw/transcripts/checkpoint-fwaccel-kernel-debug-reference-2026-04-01.md, raw/transcripts/checkpoint-cpinfo-troubleshooting-runbook-2026-04-19.md
+- Created concepts: [[securexl-debugging]] (SK171943 summary), [[cpinfo-troubleshooting-runbook]] (symptom-artifact mapping, 7 profiles)
+- Created SecureXL module pages: [[securexl-module-default]], [[securexl-module-pkt]], [[securexl-module-infras]], [[securexl-module-api]], [[securexl-module-vpn]], [[securexl-module-synatk]], [[securexl-module-adp]]
+- Created concept: [[check-point-sr-workflow-hermes]] (Trello, cpinfo-ingest, EXP matching, file naming)
+- Created comparisons: [[fwaccel-vs-fw-ctl-debugging]] (dual-debug system contrast)
+- Updated index.md: +14 new Check Point pages (Check Point total: 27)
+- Total wiki pages: 103
 - Created entities: [[e2b]], [[daytona]], [[modal]], [[browserbase]], [[mem0]], [[composio]], [[agentmail]], [[stripe-projects]]
 - Updated: index.md, log.md
 

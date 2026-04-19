@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-19 | Total pages: 76 + 13 Check Point pages = 89
+> Last updated: 2026-04-19 | Total pages: 76 AI + 27 Check Point pages = 103
 
 ---
 
@@ -21,11 +21,20 @@
 - [[maestro-scalable-platforms]] — Scale-out via orchestrator; up to 16 SGM per Security Group (R82); no VSX support
 - [[check-point-sr-numbers]] — SR format: 6-XXXXXXXXX; TAC SR identifier; work directory pattern at /home/michael/Work/
 - [[sr-scaffold-workflow]] — Standard SR scaffold: summary.md, timeline.md, next-steps.md, contacts.md, emails/, notes/, logs/, artifacts/, pcaps/
+- [[securexl-debugging]] — SK171943; fwaccel + fw ctl dual-debug system; modules; filters; proc (default/pkt/infras/api/vpn/synatk/adp)
+- [[cpinfo-troubleshooting-runbook]] — Symptom-to-artifact triage guide; 7 symptom profiles; first-pass checklist; cpinfo layout mapping
+- [[check-point-sr-workflow-hermes]] — Michael's personal SR methodology; Trello board; cpinfo ingestion; EXP Jira matching; file naming
+- [[securexl-module-default]] — Core SecureXL: conn/offload/routing/NAT; fwk_snd_* functions; queue/htab/conn tracking
+- [[securexl-module-pkt]] — Packet processing: f2f/tcp_state/deliver/pxl/nat; medium_path_f2p_* trace points; hold_and_send_pkt
+- [[securexl-module-infras]] — Reorder/holding queue: simi_reorder_hold*/unhold; resume_from_holding_queue; held-SYN investigation
+- [[securexl-module-api]] — API layer: Firewall notifications, state updates, PacketXL; hold_new_connection_and_send_ack_to_fw
+- [[securexl-module-vpn]] — VPN fast path: encryption (AES-GCM/3DES), sticky tunnel, ClusterXL LS forwarding; fwha vpn sticky tunnel fwd
+- [[securexl-module-synatk]] — Accelerated SYN Defender; handle_synatk_syn/ack_pkt; timer/session state machine
+- [[securexl-module-adp]] — ADP/NIC layer: host routes, next-hop, bonds, DPDK/RTE API, hardware offload
 
 ### Comparisons
 - [[clusterxl-vs-maestro-vs-standalone]] — Side-by-side: ClusterXL vs Maestro vs Standalone; max members, VSX, cloud-native, use case matrix
-
----
+- [[fwaccel-vs-fw-ctl-debugging]] — fwaccel dbg vs fw ctl debug; which layer each covers; why both are needed simultaneously
 
 ## AI / Research (pre-existing — 76 pages, 2026-04-12 through 2026-04-14)
 
