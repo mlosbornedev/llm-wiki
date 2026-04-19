@@ -13,7 +13,7 @@ AI sandboxing / compute company. Targets GPU-heavy workloads.
 
 ## Key Facts
 - **Focus:** GPU-heavy workloads
-- **Position:** [[agent-stack-six-layers|Layer 1: Compute and Sandboxing]]
+- **Position:** [[agent-stack-six-layers|Layer 1 - Compute and Sandboxing]]
 - **Differentiated from:** [[e2b]] and [[daytona]] which focus on general-purpose sandboxing
 
 ## Related Concepts

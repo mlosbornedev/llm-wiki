@@ -15,7 +15,7 @@ AI sandboxing company. ~$32M total funding. Uses Firecracker microVMs (the same 
 - **Funding:** ~$32M total
 - **Architecture:** Firecracker microVMs — each agent session gets its own dedicated kernel
 - **Philosophy:** Ephemeral sandboxes. Spin one up, run code, tear it down.
-- **Position:** [[agent-stack-six-layers|Layer 1: Compute and Sandboxing]]
+- **Position:** [[agent-stack-six-layers|Layer 1 - Compute and Sandboxing]]
 
 ## Related Concepts
 - [[agent-stack-six-layers]] — where E2B fits

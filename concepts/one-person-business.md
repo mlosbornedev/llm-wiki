@@ -148,7 +148,7 @@ One-person business is primarily a **Vocation quadrant** practice, but the most 
 
 The "barrier lower, skill cap higher" dynamic is a Level 2.0 → Level 3.0 shift in the [[human-3-0|Vocation quadrant]]: everyone can start, few can execute at a high level because it requires integrated development across all quadrants.
 
-The [[metacrisis|anti-rivalrous]] nature of self-monetization (you succeed by helping others solve problems you've already solved) makes one-person business a micro-practice of the [[generator-functions|third attractor]] at the individual level.
+The [[metacrisis]] nature of self-monetization (you succeed by helping others solve problems you've already solved) makes one-person business a micro-practice of the [[generator-functions|third attractor]] at the individual level.
 
 ## Related
 

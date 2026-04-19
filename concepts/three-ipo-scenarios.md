@@ -43,5 +43,5 @@ The forced-buying mechanism is "genuinely new. We haven't seen index rules weapo
 ## Related Concepts
 - [[tiny-float-ipo-mechanics]] — why the float is artificially small
 - [[index-fund-forced-buying]] — the forced buying mechanism that could drive Scenario 3
-- [[nasdaq-fast-track-index-rules]] — what enables fast-track inclusion
+- [[nasdaq]] — what enables fast-track inclusion
 - [[spacex]], [[openai]], [[anthropic]] — the three companies

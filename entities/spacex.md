@@ -27,14 +27,14 @@ Space Exploration Technologies Corp. — aerospace and AI company led by Elon Mu
 See [[tiny-float-ipo-mechanics]]. SpaceX needs to raise $50-75B but doesn't need the market to cough up $450B (which a normal 25% float on $1.75T would require). Selling 3.3% = raising $50-75B while Musk and early investors keep 96.7%.
 
 ## Post-IPO Dynamics
-- Nasdaq will add to Nasdaq-100 after ~15 trading days (new fast-track rules, see [[nasdaq-fast-track-index-rules]])
+- Nasdaq will add to Nasdaq-100 after ~15 trading days (new fast-track rules, see [[nasdaq]])
 - Float weight capped at 5x actual float (~16.5% effective weight despite only 3.3% available)
 - Every index fund tracking Nasdaq-100 will be **required to buy** at whatever price the market sets
 - See [[index-fund-forced-buying]] for the mechanics of how this flows to 401(k) holders
 
 ## Related Concepts
 - [[tiny-float-ipo-mechanics]] — why tiny floats make prices reflect scarcity not value
-- [[nasdaq-fast-track-index-rules]] — the rule change enabling fast-track index inclusion
+- [[nasdaq]] — the rule change enabling fast-track index inclusion
 - [[index-fund-forced-buying]] — how 401(k) holders are affected
 - [[three-ipo-scenarios]] — what could happen next
 - [[openai]] — also planning massive IPO

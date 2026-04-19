@@ -33,8 +33,8 @@ Email works because it's everywhere, not because it's the right protocol for age
 Medium. Works for 2-3 years while native protocols get sorted. Email is famously cockroach-like — the shim may become the standard. But building on email-as-identity today is a pragmatic bet, not a permanent architectural commitment.
 
 ## Position
-[[agent-stack-six-layers|Layer 2: Identity and Communication]]
+[[agent-stack-six-layers|Layer 2 - Identity and Communication]]
 
 ## Related Concepts
 - [[agent-stack-six-layers]] — where AgentMail fits
-- [[agent-identity-layer]] — deeper dive on the identity layer problem
+- [[agent-stack-six-layers]] — deeper dive on the identity layer problem

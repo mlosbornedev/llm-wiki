@@ -44,7 +44,7 @@ Executed a five-move platform strategy in 90 days — see [[anthropic-platform-s
 - [[conway]] — the always-on agent that's Anthropic's "Active Directory play"
 - [[anthropic-platform-strategy]] — the five moves that reveal the full platform strategy
 - [[tiny-float-ipo-mechanics]] — the structural mechanism making the IPO price artificial
-- [[nasdaq-fast-track-index-rules]] — how the stock gets fast-tracked into index funds
+- [[nasdaq]] — how the stock gets fast-tracked into index funds
 - [[index-fund-forced-buying]] — how 401(k) holders are affected
 - [[three-ipo-scenarios]] — what could happen next
 - [[mythos]] — delayed next frontier model

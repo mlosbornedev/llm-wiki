@@ -37,7 +37,7 @@ The article frames the IPO not as a validation of AI revolution but as a "fundin
 
 ## Related Concepts
 - [[tiny-float-ipo-mechanics]] — the structural mechanism making the IPO price artificial
-- [[nasdaq-fast-track-index-rules]] — how the stock gets fast-tracked into index funds
+- [[nasdaq]] — how the stock gets fast-tracked into index funds
 - [[index-fund-forced-buying]] — how 401(k) holders end up holding the bag
 - [[three-ipo-scenarios]] — what could happen next
 - [[spacex]] — also planning massive IPO, acquired xAI

@@ -22,7 +22,7 @@ This system works well — until someone games the list.
 ## The Chain of Events
 
 1. **IPO happens** — company sells 3–5% of itself to the public
-2. **Fast-track index inclusion** — under [[nasdaq-fast-track-index-rules]], company can be added to Nasdaq-100 after just 15 trading days (effective May 1)
+2. **Fast-track index inclusion** — under [[nasdaq]], company can be added to Nasdaq-100 after just 15 trading days (effective May 1)
 3. **Forced buying begins** — every fund tracking that index is **required to buy** (not encouraged, required — it's written into the fund's rules)
 4. **Price spikes** — not because of any revelation about company value, but because mandatory demand meets artificially constrained supply
 5. **Lock-up expires 90–180 days later** — insiders sell their 97% into the inflated price; index funds are the buyers
@@ -49,6 +49,6 @@ Chris Chandler (commenter) notes: passive funds represent ~33% of market activit
 
 ## Related Concepts
 - [[tiny-float-ipo-mechanics]] — why supply is artificially constrained
-- [[nasdaq-fast-track-index-rules]] — the rule change enabling fast-track inclusion
+- [[nasdaq]] — the rule change enabling fast-track inclusion
 - [[three-ipo-scenarios]] — what could happen next
 - [[spacex]], [[openai]], [[anthropic]] — the three companies

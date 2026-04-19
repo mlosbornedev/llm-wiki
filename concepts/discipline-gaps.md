@@ -37,7 +37,7 @@ AI has none of these constraints.
 
 ## The Discipline Gap vs. Knowledge Gap
 
-The [[knowledge-asymmetry-gap]] (labor arbitrage → intelligence arbitrage) is about **what you know**. The discipline gap is about **what you do with what you know**, consistently, at scale.
+The [[discipline-gaps]] (labor arbitrage → intelligence arbitrage) is about **what you know**. The discipline gap is about **what you do with what you know**, consistently, at scale.
 
 These gaps compress differently:
 - Knowledge gap: closes when information becomes universally accessible (every model release)

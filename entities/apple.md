@@ -34,6 +34,6 @@ Apple historically enters markets "late" (MP3 players, smartphones, tablets, sma
 Will you be positioned as a user of Apple's runtime layer, or find ways to build value Apple can't commoditize?
 
 ## Related
-- [[apple-agentic-runtime]] — the specific article analysis
+- [[apple]] — the specific article analysis
 - [[mcp-model-context-protocol]] — Apple wiring MCP into iOS
 - [[cnw-extension-format]] — platform proprietary layers

@@ -33,7 +33,7 @@ Analogy from the article:
 PitchBook analysis on SpaceX specifically: at 3.3% float, expect 20–30% single-day price swings — roughly double Tesla's volatility.
 
 ## The Index Fund Amplification
-This is where it gets systemic. With [[nasdaq-fast-track-index-rules]] in place:
+This is where it gets systemic. With [[nasdaq]] in place:
 1. Company floats 3–5% in June
 2. Three weeks later, added to Nasdaq-100 weighted at ~5x float (capped)
 3. Every index fund tracking Nasdaq-100 **required to buy**
@@ -51,6 +51,6 @@ This is described in the article as a wealth transfer from (retail/index fund ho
 
 ## Related Concepts
 - [[index-fund-forced-buying]] — the mechanism by which 401(k)s end up holding the bag
-- [[nasdaq-fast-track-index-rules]] — the rule change enabling this
+- [[nasdaq]] — the rule change enabling this
 - [[three-ipo-scenarios]] — what could happen next
 - [[spacex]], [[openai]], [[anthropic]] — the three companies using this playbook

@@ -32,7 +32,7 @@ Each quadrant develops through three stages:
 
 **Level 2.0 — Individualist:** Internal authority, rational thinking, security through achievement, personal perspective. Shift from employee to entrepreneur mindset — creating own goals rather than accepting assignments.
 
-**Level 3.0 — Synthesist:** Contextual wisdom, paradoxical thinking, security through acceptance, multi-perspectival. Creates new frameworks rather than choosing between existing ones. Minimum level capable of designing [[generator-functions|anti-rivalrous]] solutions to the [[metacrisis]].
+**Level 3.0 — Synthesist:** Contextual wisdom, paradoxical thinking, security through acceptance, multi-perspectival. Creates new frameworks rather than choosing between existing ones. Minimum level capable of designing [[generator-functions]] solutions to the [[metacrisis]].
 
 **Level 4.0 — Evolutionary:** Post-integral consciousness where individual/collective boundaries dissolve. Rare; operates as expression of evolutionary force itself.
 
@@ -57,7 +57,7 @@ Transitions within each level follow a three-phase pattern:
 Development in one quadrant cascades to others:
 
 - **Positive spiral:** Body (energy) → Spirit (connection) → Mind (clarity) → Vocation (resources) → Body (investment)
-- **Negative traps:** The [[cross-quadrant-dynamics|Poverty Trap]], [[cross-quadrant-dynamics|Success Trap]], [[cross-quadrant-dynamics|Spiritual Bypass]], [[cross-quadrant-dynamics|Optimization Trap]]
+- **Negative traps:** The [[cross-quadrant-dynamics]], [[cross-quadrant-dynamics]], [[cross-quadrant-dynamics]], [[cross-quadrant-dynamics]]
 
 ## Key Dynamics
 

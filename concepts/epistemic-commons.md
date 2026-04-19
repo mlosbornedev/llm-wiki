@@ -55,4 +55,4 @@ The defining factor of an essay is that **AI cannot write one**. Essays require:
 ## Related Concepts
 
 - [[meaning-economy]] — meaning as the scarce commodity in the post-AI economy
-- [[slow-content-vs-fast-content]] — fast content as entropic, slow content as ordering
+- slow-content-vs-fast-content — fast content as entropic, slow content as ordering

@@ -44,5 +44,5 @@ Every frontier lab (OpenAI, Anthropic) is building memory into its own models. I
 
 ## Related Concepts
 - [[agent-stack-six-layers]] — where Mem0 fits
-- [[agent-memory-layer]] — deeper dive on the memory layer debate
+- [[agent-stack-six-layers]] — deeper dive on the memory layer debate
 - [[conway]], [[anthropic]] — companies also building memory into their agents

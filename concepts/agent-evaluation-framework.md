@@ -38,4 +38,4 @@ Agents executing on broken data models, unmapped workflows, or misaligned org st
 
 ## Related
 - [[agent-reliability-math]] — compounding fragility across agent primitives
-- [[openclaw-ban]] — the specific case of agent deployments going wrong
+- [[openclaw]] — the specific case of agent deployments going wrong

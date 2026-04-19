@@ -127,6 +127,6 @@ This is the microservices fragility problem, except worse — agents are non-det
 ## Related Concepts
 - [[agent-orchestration]] — the gap that matters most; Layer 6 deep dive
 - [[mem0]], [[composio]], [[e2b]], [[daytona]], [[browserbase]], [[agentmail]], [[stripe-projects]] — the companies filling these layers
-- [[agent-memory-layer]] — memory and state layer deep dive
-- [[agent-identity-layer]] — identity/shim problem deep dive
+- [[agent-stack-six-layers]]] — memory and state layer deep dive
+- [[agent-stack-six-layers]]] — identity/shim problem deep dive
 - [[agent-reliability-math]] — compounding reliability math

@@ -14,7 +14,7 @@ AI sandboxing company focused on headless browser automation. Valued at $300M af
 ## Key Facts
 - **Valuation:** $300M (Series B)
 - **Focus:** Headless browser automation — agents interact with web pages as if they were human users
-- **Position:** [[agent-stack-six-layers|Layer 1: Compute and Sandboxing]]
+- **Position:** [[agent-stack-six-layers|Layer 1 - Compute and Sandboxing]]
 
 ## Related Concepts
 - [[agent-stack-six-layers]] — where Browserbase fits

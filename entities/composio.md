@@ -31,7 +31,7 @@ At enterprise scale — where an agent might need CRM + ticketing + email + cale
 High for near term. Long-term risk: if [[mcp-model-context-protocol|MCP]] becomes truly universal, managed integration value diminishes. But "truly universal" is years away.
 
 ## Position
-[[agent-stack-six-layers|Layer 4: Tool Access and Integration]]
+[[agent-stack-six-layers|Layer 4 - Tool Access and Integration]]
 
 ## Related Concepts
 - [[agent-stack-six-layers]] — where Composio fits

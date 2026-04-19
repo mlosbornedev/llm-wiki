@@ -16,7 +16,7 @@ AI sandboxing company. $24M Series A (February 2026). Docker containers with a s
 - **Architecture:** Docker containers, shared host kernel
 - **Key Feature:** 90ms cold starts, persistent state — agent can install dependencies, create files, and come back later
 - **Philosophy:** Persistent sandboxes (vs. [[e2b|E2B's]] ephemeral approach)
-- **Position:** [[agent-stack-six-layers|Layer 1: Compute and Sandboxing]]
+- **Position:** [[agent-stack-six-layers|Layer 1 - Compute and Sandboxing]]
 
 ## The Persistent vs Ephemeral Split
 

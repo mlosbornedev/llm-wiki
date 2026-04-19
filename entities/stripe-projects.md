@@ -34,7 +34,7 @@ Since early 2026, agents can take a project from `git init` to a running app aut
 High for Stripe specifically. Payments is a trust problem — Stripe already solved trust at scale. New-entrant opportunity is in the metering, budgeting, and financial orchestration layer **on top of** the payment rail.
 
 ## Position
-[[agent-stack-six-layers|Layer 5: Provisioning and Billing]]
+[[agent-stack-six-layers|Layer 5 - Provisioning and Billing]]
 
 ## Related Concepts
 - [[agent-stack-six-layers]] — where Stripe Projects fits
