@@ -2,9 +2,34 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-19 | Total pages: 76
+> Last updated: 2026-04-19 | Total pages: 76 + 13 Check Point pages = 89
 
-## Entities
+---
+
+## Check Point TAC (2026-04-19 — new domain)
+
+### Entities
+- [[check-point-company]] — Check Point Software Technologies; NASDAQ: CHKP; Quantum, Maestro, VSX product lines
+- [[r82-release]] — Latest Check Point major release; Maestro 16x SGM, ClusterXL AA improvements, API-first management
+- [[cp5400-ns-appliance]] — Mid-range NGTX appliance (R81.20, JHF 122); serial 00:1C:7F:AA:D4:3B; up to 5 VS
+- [[gaia-os]] — Check Point Linux OS (CentOS/RHEL base); CLISH + Expert mode; all modern appliances
+- [[sr-6-0004564689-golfview]] — Active SR: Golfview Developmental Center; CP5400-NS passthrough config; VSX/Cluster/Performance
+
+### Concepts
+- [[clusterxl-redundancy]] — HA (active/standby), LS Multicast, LS Unicast (pivot), Active-Active; VMAC, CCP UDP 8116, Sticky Connections
+- [[vsx-virtual-systems]] — Virtual System Extension; VS, VSW, VSD; up to 50+ VS per appliance; passthrough mode
+- [[maestro-scalable-platforms]] — Scale-out via orchestrator; up to 16 SGM per Security Group (R82); no VSX support
+- [[check-point-sr-numbers]] — SR format: 6-XXXXXXXXX; TAC SR identifier; work directory pattern at /home/michael/Work/
+- [[sr-scaffold-workflow]] — Standard SR scaffold: summary.md, timeline.md, next-steps.md, contacts.md, emails/, notes/, logs/, artifacts/, pcaps/
+
+### Comparisons
+- [[clusterxl-vs-maestro-vs-standalone]] — Side-by-side: ClusterXL vs Maestro vs Standalone; max members, VSX, cloud-native, use case matrix
+
+---
+
+## AI / Research (pre-existing — 76 pages, 2026-04-12 through 2026-04-14)
+
+### Entities
 <!-- Alphabetical within section -->
 - [[agentmail]] — $6M seed; email-as-identity shim for agents; works 2-3 years, not forever
 - [[anthropic]] — AI company; platform strategy (Conway, .cnw.zip, MCP); Mythos delayed; IPO accounting questions
@@ -35,7 +60,7 @@
 - [[stripe-projects]] — First credible trust layer for agent-to-service transactions; launched March 2026; Layer 5 billing
 - [[vllm]] — Open-source inference engine; FP8 KV cache production-ready; integrating TurboQuant
 
-## Concepts
+### Concepts
 <!-- Alphabetical within section -->
 - [[abraham-maslow]] — hierarchy of needs; self-actualization research; "good enough" baseline principle; deficiency vs being needs
 - [[ai-assisted-vs-automated]] — AI-assisted (human judgment + AI support) vs AI-automated; trust built on judgment not volume
@@ -94,4 +119,3 @@
 - [[token-management]] — 66K tokens loaded before typing; AI fluency = cost control; 5x-20x waste from bad habits
 - [[turboquant]] — Google's 6x KV cache compression; zero accuracy loss; PolarQuant + QJL; no new hardware
 - [[upstream-migration]] — Value migrates upstream after each gap closes; judgment, taste, relationships, system thinking
-

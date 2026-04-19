@@ -1,10 +1,10 @@
 # Wiki Schema
 
 ## Domain
-Personal knowledge — a general-purpose knowledge base for capturing insights, research, ideas, and references across any topic of interest.
+**Check Point TAC Knowledge Base** — Technical Assistance Center knowledge covering Check Point security appliances, gateways, firewalls, and platform infrastructure. Includes product lines (Quantum, Spark, Maestro), software releases (R77, R80, R81, R82), features (VSX, ClusterXL, VSX, CPD, FW), and TAC escalation workflows.
 
 ## Conventions
-- File names: lowercase, hyphens, no spaces (e.g., `transformer-architecture.md`)
+- File names: lowercase, hyphens, no spaces (e.g., `clusterxl-redundancy.md`)
 - Every wiki page starts with YAML frontmatter (see below)
 - Use `[[wikilinks]]` to link between pages (minimum 2 outbound links per page)
 - When updating a page, always bump the `updated` date
@@ -17,21 +17,35 @@ Personal knowledge — a general-purpose knowledge base for capturing insights, 
   title: Page Title
   created: YYYY-MM-DD
   updated: YYYY-MM-DD
-  type: entity | concept | comparison | query | summary
+  type: entity | concept | comparison | query | summary | template
   tags: [from taxonomy below]
   sources: [raw/articles/source-name.md]
   ---
   ```
 
 ## Tag Taxonomy
-[Define top-level tags — add new tags here BEFORE using them]
+[Add new tags here BEFORE using them]
 
-- Meta: knowledge, memory, learning, productivity, tool
-- People/Orgs: person, company, community
-- Technology: software, hardware, programming, ai, security
-- Domain: research, health, finance, engineering, creative
-- Ideas: concept, opinion, project, reference
-- Life: travel, hobby, family, work
+**Products/Hardware:**
+- quantum-gateway, spark-gateway, ngtx-appliance, maestro-orchestrator, hardware
+
+**Software/Release:**
+- r77, r80, r81, r82, gaia-os, smartcenter, security-management
+
+**Features:**
+- vsx, clusterxl, vmac, ccp, vpn, fw, nat, identity-awareness, threat-prevention, sandboxing
+
+**Platform/Architecture:**
+- vsx-virtual-system, vsx-virtual-switch, vsx-virtual-device, scalable-platforms, maestro, cluster
+
+**Protocols:**
+- ccp-udp-8116, ospf, bgp, rip, routing
+
+**TAC/SR-Workflow:**
+- sr-scaffold, sr-workflow, tac, escalation, check-point-sr
+
+**Meta:**
+- comparison, timeline, troubleshooting, reference
 
 ## Page Thresholds
 - **Create a page** when an entity/concept appears in 2+ sources OR is central to one source
@@ -53,6 +67,13 @@ One page per concept or topic. Include:
 - Current state of knowledge
 - Open questions or debates
 - Related concepts ([[wikilinks]])
+
+## Template Pages
+SR workflow templates and other reusable structures. Include:
+- Purpose and when to use
+- Structure/format
+- Examples
+- Related templates ([[wikilinks]])
 
 ## Comparison Pages
 Side-by-side analyses. Include:

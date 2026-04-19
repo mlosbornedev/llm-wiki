@@ -48,6 +48,17 @@
 ## [2026-04-13] ingest | AI Agent Stack — Six Layers (Nate's Substack)
 - Ingested source: raw/transcripts/nate-agent-stack-six-layers-2026.md
 - Created concepts: [[agent-stack-six-layers]], [[agent-orchestration]], [[agent-reliability-math]]
+
+## [2026-04-19] create | Check Point TAC Knowledge Base — Foundation
+- Domain pivot: added Check Point TAC as second wiki domain alongside existing AI/Research pages
+- Updated SCHEMA.md: new tag taxonomy (quantum-gateway, vsx, clusterxl, maestro, sr-workflow, etc.)
+- Updated index.md: added Check Point section with 13 new pages (5 entities, 5 concepts, 1 comparison, 1 template, 1 active SR)
+- Created entities: [[check-point-company]], [[r82-release]], [[cp5400-ns-appliance]], [[gaia-os]], [[sr-6-0004564689-golfview]]
+- Created concepts: [[clusterxl-redundancy]], [[vsx-virtual-systems]], [[maestro-scalable-platforms]], [[check-point-sr-numbers]], [[sr-scaffold-workflow]]
+- Created comparisons: [[clusterxl-vs-maestro-vs-standalone]]
+- Created template: [[sr-scaffold-workflow]]
+- Existing AI/Research pages preserved (76 pages from 2026-04-12 through 2026-04-14)
+- Total wiki pages: 89
 - Created entities: [[e2b]], [[daytona]], [[modal]], [[browserbase]], [[mem0]], [[composio]], [[agentmail]], [[stripe-projects]]
 - Updated: index.md, log.md
 
@@ -121,3 +132,24 @@
 - Committed: f972f58
 - Not fixed: Tag taxonomy — pervasive issue (74/83 pages); recommend expanding SCHEMA.md taxonomy or adopting a more permissive schema
 - Not fixed: Orphan pages — 10 pages have zero inbound links; requires careful linking to avoid artificial/inaccurate connections
+
+## [2026-04-19] lint | Orphan and index fixes
+- Ran lint via execute_code (cron scheduler not firing)
+- Check 1 (Orphans): 10 pages with no inbound links
+- Check 2 (Broken wikilinks): 0 — all wikilinks resolve
+- Check 3 (Stale): 0 — no stale pages
+- Check 4 (Index): 2 ghost index entries found (ai-memory-compression-frontier, openclaw-ban) — both removed
+- Check 5 (Tags): parsing error on previous run — recheck needed
+- Fixed: Removed ghost index entries
+- Fixed: Added inbound wikilinks to all 10 orphan pages:
+  - [[hermes-autoresearch]] → linked from karpathy-loop (community ports section)
+  - [[autoresearch-atari]] → linked from karpathy-loop (community variations)
+  - [[autokernel]] → linked from karpathy-loop (community ports)
+  - [[clawdmarket]] → linked from karpathy-loop (community ports)
+  - [[dispatch-computer-use]] → linked from agent-taxonomy and agent-reliability-math
+  - [[ai-consulting-build-buy]] → linked from agent-taxonomy, agent-reliability-math, reorg-three-functions
+  - [[reorg-three-functions]] → linked from judgment-paradox and ai-consulting-build-buy
+  - [[helium-ai-infrastructure-risk]] → linked from three-body-ai-memory and compression-frontier
+  - [[skills-architecture]] → linked from intelligence-portability
+  - [[token-management]] → linked from kv-cache
+- Committed: a33dee9, pushed to origin/main
