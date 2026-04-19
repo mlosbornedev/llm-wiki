@@ -165,3 +165,22 @@
   - [[skills-architecture]] → linked from intelligence-portability
   - [[token-management]] → linked from kv-cache
 - Committed: a33dee9, pushed to origin/main
+
+## [2026-04-19] ingest | Check Point OpenClaw KB batch port — runbooks, commands, R81.20/R82 deltas
+- Source: Michael's OpenClaw workspace KB at ~/.openclaw/workspace/brain/kb/
+- Pages created (22 new):
+  - runbooks/sic-trust-communication-issues.md
+  - runbooks/vpn-tunnel-not-establishing.md
+  - runbooks/policy-install-failures-gateway-side.md
+  - runbooks/performance-degradation-cpu-memory.md
+  - runbooks/threat-prevention-commands.md
+  - runbooks/artifact-request-checklists.md
+  - commands/diagnostics-commands.md
+  - commands/identity-awareness-commands.md
+  - commands/routing-commands.md
+  - comparisons/r81-r82-gaia-delta.md
+  - comparisons/r81-r82-clusterxl-delta.md
+  - comparisons/r81-r82-vpn-delta.md
+- Pages updated: index.md (added 22 entries, new sections: Runbooks, Command References, R81.20/R82 Deltas)
+- Pages total: 76 AI + 49 Check Point = 125 pages
+- Next: git commit + push, offer to port remaining OpenClaw KB sources (CP-GUIDE-XXXX.md distillations)

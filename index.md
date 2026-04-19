@@ -2,7 +2,7 @@
 
 > Content catalog. Every wiki page listed under its type with a one-line summary.
 > Read this first to find relevant pages for any query.
-> Last updated: 2026-04-19 | Total pages: 76 AI + 27 Check Point pages = 103
+> Last updated: 2026-04-19 | Total pages: 76 AI + 49 Check Point pages = 125
 
 ---
 
@@ -35,6 +35,24 @@
 ### Comparisons
 - [[clusterxl-vs-maestro-vs-standalone]] — Side-by-side: ClusterXL vs Maestro vs Standalone; max members, VSX, cloud-native, use case matrix
 - [[fwaccel-vs-fw-ctl-debugging]] — fwaccel dbg vs fw ctl debug; which layer each covers; why both are needed simultaneously
+
+### Runbooks
+- [[sic-trust-communication-issues]] — 7-step runbook: capture error → verify prerequisites → SIC logging → reset only when justified; R81.20–R82
+- [[vpn-tunnel-not-establishing]] — 6-step tunnel classification: path → IKE/auth → Office Mode → NAT/egress → escalation evidence; R81.20–R82
+- [[policy-install-failures-gateway-side]] — Gateway-side install failure: SIC status → prerequisites → focused `sic_info.elg` → escalate; R81.20–R82
+- [[performance-degradation-cpu-memory]] — 9-step CPU/memory runbook: CPView → CoreXL stat/util/affinity → logging pressure → spikes → cpinfo; R81.20–R82
+- [[threat-prevention-commands]] — Threat Prevention ops: `mgmt_cli install-policy`, `te_add_file`, dedicated TP policy install vs AC policy; R81.20–R82
+- [[artifact-request-checklists]] — Minimum artifact checklists by symptom: ClusterXL, VPN, Policy Install, Performance; R81.20–R82
+
+### Command References
+- [[diagnostics-commands]] — cpview, spike-detective, fw ctl multik stat/util/affinity, fwsyslog_nlogs_counter, fw ctl zdebug, cpstat, cpinfo; R81.20–R82
+- [[identity-awareness-commands]] — adlog statistics, pdp status/tasks_manager, pep show pdp/network/user query; VSX `vsenv` context; R81.20–R82
+- [[routing-commands]] — show route all/destination, OSPF/BGP/RIP `show` and `set` commands, advanced routing; R81.20–R82
+
+### Comparisons
+- [[r81-r82-gaia-delta]] — Gaia CLISH delta: `show version all`, `show interfaces`, `show route`, `show configuration`, `show asset` stable; no changes
+- [[r81-r82-clusterxl-delta]] — ClusterXL delta: commands unchanged, R82 adds Active-Active CCP encryption improvements, `fw hastat` deprecated
+- [[r81-r82-vpn-delta]] — VPN delta: commands stable, R82 adds VSX Remote Access context notes and improved tunnel establishment diagnostics
 
 ## AI / Research (pre-existing — 76 pages, 2026-04-12 through 2026-04-14)
 
